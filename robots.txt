@@ -1,2 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: 
+https://langkahcuan.github.io/ramadhan-selotgacor-artikel-terbaru-/
